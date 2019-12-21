@@ -1,1 +1,80 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
 
+h1, h2, h3, .card-body>h5 {
+font-family: "Lobster", cursive;
+}
+
+h2 {
+  color: #3046C5;
+}
+
+header h2 {
+  color: #CEC8FF; }
+ 
+h4 {
+    color:#60106B;
+}
+
+h4, .card-body {
+  font-family:"Lobster", cursive;
+}
+
+.card-img-overlay h5 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.site-footer {
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, #60106B, rgb(32, 33, 41), rgb(161, 56, 29));
+  color: white;
+}
+
+.jumbotron h2 {
+  color: #CEC8FF;
+}
+
+.navbar-dark {
+  background-color: #901CAD;
+}
+
+.tab-content {
+  border: 1px solid #DDD;
+  border-top: none;
+  padding: 10px; }
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5); }
+
+.carousel {
+  border: solid #5637DD; }
+
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 0; }
+
+.carousel {
+  border: solid #5637dd; }
+
+#reserveModal .modal-header {
+  background-color: rgb(235, 127, 27);
+  color: #FFFF; }
+
+.modal-header {
+  background-color: #000000;
+  color: #FFFF; }
